@@ -1,1 +1,1 @@
-# Prog-Econ-velser-
+# ProgEcon øvelser
